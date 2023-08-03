@@ -9,7 +9,7 @@
 <br>
 <p> <strong>Uygulamayı Çalıştırmak için yapılması gerekenler </strong>
 <ol>
-<li> İlk olarak bir başka projede yazmış olduğum Api Servis çalıştırılmalıdır. <b>[https://github.com/alibeysulen00/SpringBoot-userServices](https://github.com/alibeysulen00/SpringBootCRUD)</b> bu adresteki projede SpringBoot framework kullanılarak CRUD işlemler yapan bir api yazılmıştır detayları projedeki Readme dosyası içerisinde mvcuttur. <b>Proje başarılı bir şekilde Run edilmelidir</b> (Bu projede yalnızca READ işlemi yapılacaktır. Belirtilen proje incelendiğinde CREATE, UPDATE, DELETE işlemlerininde ufak değişiklikler yapılarak işlemler yapılabilir)  </li>
+<li> İlk olarak bir başka projede yazmış olduğum Api Servis çalıştırılmalıdır. <b>(https://github.com/alibeysulen00/SpringBootCRUD)</b> bu adresteki projede SpringBoot framework kullanılarak CRUD işlemler yapan bir api yazılmıştır detayları projedeki Readme dosyası içerisinde mvcuttur. <b>Proje başarılı bir şekilde Run edilmelidir</b> (Bu projede yalnızca READ işlemi yapılacaktır. Belirtilen proje incelendiğinde CREATE, UPDATE, DELETE işlemlerininde ufak değişiklikler yapılarak işlemler yapılabilir)  </li>
 <li>Web Servisimiz ayağa kalktığında bulunduğunuz projeyi build ve run ettiğinizde resources klasörü altında result.txt oluşturulup içerisine apiden gelen yanıtların var olduğunu göreceksiniz  </li>
 
 
